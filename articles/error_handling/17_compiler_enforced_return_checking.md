@@ -2,7 +2,7 @@
 
 __Дата:__ "2026-10-28"\
 __Версия:__ "v1.0"\
-__Стандарты:__ "C23 (ISO/IEC 9899:2024, атрибут [[nodiscard]]); GCC/Clang Extensions (__attribute__((warn_unused_result))); MSVC SAL Annotations (_Check_return_)"\
+__Стандарты:__ "C23 (ISO/IEC 9899:2024, атрибут `[[nodiscard]]`); GCC/Clang Extensions (\_\_attribute\_\_(warn_unused_result)); MSVC SAL Annotations (_Check_return_)"\
 __Предварительные требования__:
 
 - Понимание того, как компилятор C обрабатывает возвращаемые значения и предупреждения (warnings).
